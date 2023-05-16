@@ -1,4 +1,4 @@
-import { ImageSource, Sound, Resource, Loader } from "excalibur";
+import { ImageSource, Sound, Resource, Loader } from "excalibur/";
 import playerSprite from './assets/player_default.png';
 import backgroundSprite from './assets/BODIES_background.png';
 

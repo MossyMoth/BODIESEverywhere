@@ -1,4 +1,4 @@
-import { Actor, Engine, Vector, Color} from "excalibur";
+import { Actor, Engine, Vector, Color} from "excalibur/";
 import { Resources, ResourceLoader} from './resources.js'; 
 import { Player} from './characterScripts/player.js';
 import { DevTool } from "@excaliburjs/dev-tools";

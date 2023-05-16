@@ -1,4 +1,4 @@
-import {Actor, Vector} from 'excalibur';
+import {Actor, Vector} from 'excalibur/';
 import {Resources} from './resources.js';
 import {Player} from './characterScripts/player.js';
 
